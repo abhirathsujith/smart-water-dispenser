@@ -1,2 +1,4 @@
-# smart-water-dispenser
-water dispenser using Node MCU
+# Automatic-Irrigation
+
+This is a Automatic irrigation project built to work for small gardens
+
